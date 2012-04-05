@@ -8,7 +8,7 @@ Assuming Ruby 1.9.3 (.rvmrc file present)
 
 1.) Bundle install (for RSpec)
 
-2.) Run the command "ruby main.rb" in the proper path in the terminal.
+2.) Run the command "ruby main.rb" in the proper path in the terminal.<br />
 	-- If you want to create a new input file, edit the last line in the main.rb file:
 		MarsMission.new('input.txt')
 
