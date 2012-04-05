@@ -1,6 +1,6 @@
 README:
 
-This is my solution to the Mars Rover Problem.
+
 
 **All the files should be put into the same folder and run from that environment!**
 
@@ -12,10 +12,10 @@ Assuming Ruby 1.9.3 (.rvmrc file present)
 	-- If you want to create a new input file, edit the last line in the main.rb file:
 		MarsMission.new('input.txt')
 
-3.) Can change inputs around in the input.txt file
-	-- The formatting has to go exactly as the prompt follows (with exact spacing)
+3.) Can change inputs around in the input.txt file<br />
+	-- The formatting has to go exactly as the prompt follows (with exact spacing)<br />
 	-- Only check for faulty data is number of lines has to be odd
 
-4.) Current input is the minimum required to pass the assignment
+
 
 
